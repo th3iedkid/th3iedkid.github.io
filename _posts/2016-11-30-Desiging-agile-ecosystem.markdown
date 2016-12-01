@@ -14,7 +14,7 @@ This was just supposed to be a short demo on what can be done towards a producti
 
 To set the context , lets go back, a few months where we ourselves designed an ecosystem and implemented.
 
-## Our challenges ##
+## Challenges ##
 
     - Flux of New Engineers who barely understand the underlying technologies have to develop on those consistently .
 
@@ -34,7 +34,7 @@ To set the context , lets go back, a few months where we ourselves designed an e
 
     - Fostering a culture of learn,practice,teach cycle.
 
-## Our opportunities ##
+## Opportunities ##
 
         - People we have (and we are hiring !)
 
@@ -50,7 +50,7 @@ To set the context , lets go back, a few months where we ourselves designed an e
  ![Chaotic](/img/Chaotic.jpg)
  ![Simple](/img/Simple.jpg)
 
-## Lets look at the obvious ones first ##
+## The Obvious ones first ##
 
 Collaboration with geographic separation was made possible with an ecosystem tuned for collaborative technologies, but that required a pipeline for on-boarding new recruits. We tried helping new recruits understand by optionally requesting them to travel for induction for a brief period. Collaboration requires communication tools that are both interactive and reactive, across channels. This is where agile tooling from existing technologies helped.
 
