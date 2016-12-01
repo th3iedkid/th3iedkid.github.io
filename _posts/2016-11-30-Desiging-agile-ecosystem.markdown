@@ -16,6 +16,7 @@ To set the context , lets go back, a few months where we ourselves designed an e
 
 ## Challenges ##
 
+
     - Flux of New Engineers who barely understand the underlying technologies have to develop on those consistently .
 
     - A system with escalating technical debt underlying it , which in itself was shifting from a tactical prototype to an actively worked upon framework .
@@ -35,6 +36,7 @@ To set the context , lets go back, a few months where we ourselves designed an e
     - Fostering a culture of learn,practice,teach cycle.
 
 ## Opportunities ##
+
 
         - People we have (and we are hiring !)
 
