@@ -94,10 +94,12 @@ This again targets the ideation to realization latency. This requires a very rea
 
 #### Customer collaboration over contract negotiation ####
 
+
 Its a very fine line to tread upon.Collaboration often requires physical interactions in some specific cases but client engagements built over time can work in different forms. Collaboration requires frequent communication on tagged deliverables. This could require one helping out customers in crises too. That would be part of another blog by itself.
 
 
 #### Responding to change over following a plan ####
+
 
 Plans aren't built to be broken, neither are all plans broken by design .
 Its just that change is but the living fluid of an economic eventuality.
@@ -109,9 +111,17 @@ Building software requires one to constantly integrate features one after the ot
 
 #### They define integration pipelines that compose ####
 
-Reactive integration valuing individuals
-Interactive collaboration for handling the eventuality across individuals
-Simulation pipelines to speed up ideation-realization gaps by taking component composition to itself and  only notifying on specifics such as success or failure of composition..
-Effective collaborative data context for each such composition ... like feature tags being mapped directly for that specific composition to tag along all the changed artifacts. This could be important in a collaborative and exploratory pipeline when designed and used effectively.Effective change context for every change of version for each specific component while composing the same across others.Motivation and need context for such a composition from other perspectives.
 
-Overall values of becoming an agile ecosystem can only be realized over time with considerable effort.However once realized ,it can help foster a self sustaining culture in the long run.
+Reactive integration valuing individuals
+
+Interactive collaboration for handling the eventuality across individuals
+
+Simulation pipelines to speed up ideation-realization gaps by taking component composition to itself and  only notifying on specifics such as success or failure of composition..
+
+Effective collaborative data context for each such composition ... like feature tags being mapped directly for that specific composition to tag along all the changed artifacts. This could be important in a collaborative and exploratory pipeline when designed and used effectively.
+
+Effective change context for every change of version for each specific component while composing the same across others.Motivation and need context for such a composition from other perspectives.
+
+
+
+##Overall values of becoming an agile ecosystem can only be realized over time with considerable effort.However once realized ,it can help foster a self sustaining culture in the long run.##
