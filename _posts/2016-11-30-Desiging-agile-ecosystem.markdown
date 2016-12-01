@@ -45,10 +45,10 @@ To set the context , lets go back, a few months where we ourselves designed an e
         - Very little time :)
 
 
- ![Complex](/img/Complex.jpg){:height="200" width="60"}
- ![Complicated](/img/Complicated.jpg){:height="200" width="60"}
- ![Chaotic](/img/Chaotic.jpg){:height="200" width="60"}
- ![Simple](/img/Simple.jpg){:height="200" width="60"}
+ ![Complex](/img/Complex.jpg)
+ ![Complicated](/img/Complicated.jpg)
+ ![Chaotic](/img/Chaotic.jpg)
+ ![Simple](/img/Simple.jpg)
 
 ## Lets look at the obvious ones first ##
 
