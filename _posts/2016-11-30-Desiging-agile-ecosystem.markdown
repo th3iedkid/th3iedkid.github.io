@@ -17,27 +17,38 @@ To set the context , lets go back, a few months where we ourselves designed an e
 ## Our challenges ##
 
     - Flux of New Engineers who barely understand the underlying technologies have to develop on those consistently .
+
     - A system with escalating technical debt underlying it , which in itself was shifting from a tactical prototype to an actively worked upon framework .
+
     - Time pressure with the knowledgeable under constant and critical client engagements and the newbies to deliver.
+
     - Geographic gaps affecting active collaboration in some specific cases
+
     - Escalating client expectations on features being actively added.
+
     - Existing Engineers to be mentored in different aspects.
+
     - Minimal engineering ecosystem covering a product life-cycle.
+
     - Many of the focus products/frameworks still being validated.
+
     - Fostering a culture of learn,practice,teach cycle.
 
 ## Our opportunities ##
 
         - People we have (and we are hiring !)
+
         - Many of the challenges were reduce-able to engineering problems with technology
+
         - A very engaging client .
+
         - Very little time :)
 
-Reorganizing the cynefin way
 
-Complex ![Complex](/img/Complex.jpg)  Complicated ![Complicated](/img/Complicated.jpg)
-
-Chaotic ![Chaotic](/img/Chaotic.jpg) Simple ![Simple](/img/Simple.jpg)
+ ![Complex](/img/Complex.jpg){:height="100" width="100"}
+ ![Complicated](/img/Complicated.jpg){:height="100" width="100"}
+ ![Chaotic](/img/Chaotic.jpg){:height="100" width="100"}
+ ![Simple](/img/Simple.jpg){:height="100" width="100"}
 
 ## Lets look at the obvious ones first ##
 
