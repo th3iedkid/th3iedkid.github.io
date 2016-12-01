@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Desiging An Agile Ecosystem !"
+author: "Ganesh"
 date:   2016-11-30 19:44:08 +0530
 categories: agile ecosystem
 ---
