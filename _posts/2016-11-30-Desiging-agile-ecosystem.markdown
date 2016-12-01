@@ -62,60 +62,53 @@ Escalating technical debt is usually a result of priorities at different levels.
 
 ##  And finally the complex ones ##
 
-  Fostering culture requires a constant attention-evaluation cycle. This is also an multiplicative test of the nature of ecosystem you'd have in an organization. The more productive an ecosystem , the easier it is to foster a good culture , the less productive , the more difficult it gets to change There is however a lot transitivity in such  relationships.
+Fostering culture requires a constant attention-evaluation cycle. This is also an multiplicative test of the nature of ecosystem you'd have in an organization. The more productive an ecosystem , the easier it is to foster a good culture , the less productive , the more difficult it gets to change There is however a lot transitivity in such  relationships.
 
-  Product validation is a complex problem which can come in on its own blog at a later time.
-  A combination of a constant flux of new engineers with the experienced under constant pressure makes it a constant and complex problem. This led to us discovering newer pathways for onboarding which might come in on its own blog one day!
+Product validation is a complex problem which can come in on its own blog at a later time.
+A combination of a constant flux of new engineers with the experienced under constant pressure makes it a constant and complex problem. This led to us discovering newer pathways for onboarding which might come in on its own blog one day!
 
-  Minimal engineering ecosystem covering a product life-cycle is a problem that's easier to identify but difficult to find a way out giving the overall context. What we did was design an ecosystem based on what we saw was required.
+Minimal engineering ecosystem covering a product life-cycle is a problem that's easier to identify but difficult to find a way out giving the overall context. What we did was design an ecosystem based on what we saw was required.
 
 
 ## We wanted to value ##
 
 #### Individuals and interactions over processes and tools ####
 
-   Valuing individuals implies, we value them spending time and effort doing whatever they do best .That requires collaborative , interactive and reactive tooling. Developers don't spend time  evaluating long running tests, or how far they disrupted another feature, but focus on what they'd like to deliver in the most productive of ways. Designers spending effort and time designing and not explaining the constraints of module interactions.
+Valuing individuals implies, we value them spending time and effort doing whatever they do best .That requires collaborative , interactive and reactive tooling. Developers don't spend time  evaluating long running tests, or how far they disrupted another feature, but focus on what they'd like to deliver in the most productive of ways. Designers spending effort and time designing and not explaining the constraints of module interactions.
 
 
 #### Designing interaction pipelines requires identifying the right processes and composing the right tools ####
 
-      Identify potential interaction overheads in different communication channels.
-      Helping individuals at different levels quickly visualize the bigger picture (e.g. developers understanding the fuller business context of what they are developing ).This requires a minimal ideation to realization latency. Will detail on those aspects downstream.
-      Predictable outcomes from such processes and account for unbounded latencies and prepare its risk profile right down to the bottom.
+Identify potential interaction overheads in different communication channels.
+Helping individuals at different levels quickly visualize the bigger picture (e.g. developers understanding the fuller business context of what they are developing ).This requires a minimal ideation to realization latency. Will detail on those aspects downstream.
+Predictable outcomes from such processes and account for unbounded latencies and prepare its risk profile right down to the bottom.
 
 
 #### Working software over comprehensive documentation ####
 
-  This again targets the ideation to realization latency. This requires a very reactive ecosystem.One of the ways we adopted is by building  effective CI pipelines.This helps the ones in the foundry see through the final outcome quickly in a simulated environment.This also lets them scale upto different levels upon these simulations.This would possibly be  how an artist realizes his final outcome with every stroke , only in his mind in his case .
+This again targets the ideation to realization latency. This requires a very reactive ecosystem.One of the ways we adopted is by building  effective CI pipelines.This helps the ones in the foundry see through the final outcome quickly in a simulated environment.This also lets them scale upto different levels upon these simulations.This would possibly be  how an artist realizes his final outcome with every stroke , only in his mind in his case .
 
 
 #### Customer collaboration over contract negotiation ####
 
-   Its a very fine line to tread upon.Collaboration often requires physical interactions in some specific cases but client engagements built over time can work in different forms. Collaboration requires frequent communication on tagged deliverables. This could require one helping out customers in crises too. That would be part of another blog by itself.
+Its a very fine line to tread upon.Collaboration often requires physical interactions in some specific cases but client engagements built over time can work in different forms. Collaboration requires frequent communication on tagged deliverables. This could require one helping out customers in crises too. That would be part of another blog by itself.
 
 
 #### Responding to change over following a plan ####
 
-   Plans aren't built to be broken, neither are all plans broken by design .
-   Its just that change is but the living fluid of an economic eventuality.
-   A reactive ecosystem requires constant attention to ones priorities.
-   Different cycles of simulated responses are possible when active engineering collaboration is enabled.
+Plans aren't built to be broken, neither are all plans broken by design .
+Its just that change is but the living fluid of an economic eventuality.
+A reactive ecosystem requires constant attention to ones priorities.
+Different cycles of simulated responses are possible when active engineering collaboration is enabled.
 
 
-  Building software requires one to constantly integrate features one after the other and again covering all of the values. This is where CI systems play an integral role,
+Building software requires one to constantly integrate features one after the other and again covering all of the values. This is where CI systems play an integral role,
 
 #### They define integration pipelines that compose ####
 
-   Reactive integration valuing individuals
-
-   Interactive collaboration for handling the eventuality across individuals
-
-  Simulation pipelines to speed up ideation-realization gaps by taking component composition to itself and  only notifying on specifics such as success or failure of composition..
-
-  Effective collaborative data context for each such composition ... like feature tags being mapped directly for that specific composition to tag along all the changed artifacts. This could be important in a collaborative and exploratory pipeline when designed and used effectively.
-
-  Effective change context for every change of version for each specific component while composing the same across others.
-
-  Motivation and need context for such a composition from other perspectives.
+Reactive integration valuing individuals
+Interactive collaboration for handling the eventuality across individuals
+Simulation pipelines to speed up ideation-realization gaps by taking component composition to itself and  only notifying on specifics such as success or failure of composition..
+Effective collaborative data context for each such composition ... like feature tags being mapped directly for that specific composition to tag along all the changed artifacts. This could be important in a collaborative and exploratory pipeline when designed and used effectively.Effective change context for every change of version for each specific component while composing the same across others.Motivation and need context for such a composition from other perspectives.
 
 Overall values of becoming an agile ecosystem can only be realized over time with considerable effort.However once realized ,it can help foster a self sustaining culture in the long run.
