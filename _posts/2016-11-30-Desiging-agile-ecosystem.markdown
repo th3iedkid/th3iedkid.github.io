@@ -123,4 +123,4 @@ Effective collaborative data context for each such composition ... like feature 
 Effective change context for every change of version for each specific component while composing the same across others.Motivation and need context for such a composition from other perspectives.
 
 
-## Overall values of becoming an agile ecosystem can only be realized over time with considerable effort.However once realized ,it can help foster a self sustaining culture in the long run. ##
+#### Overall values of becoming an agile ecosystem can only be realized over time with considerable effort.However once realized ,it can help foster a self sustaining culture in the long run. ####
