@@ -21,7 +21,7 @@ subtitle: "Blog site"
 # root of your server.
 # baseurl: "/" # the subpath of your site
 url: "https://th3iedkid.github.io" # the base hostname & protocol for your site
-baseurl: "https://th3iedkid.github.io/"
+baseurl: "https://th3iedkid.github.io"
 cover: "/assets/cover.png"
 logo: "/assets/logo.png"
 
