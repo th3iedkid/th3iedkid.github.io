@@ -35,9 +35,9 @@ To set the context , lets go back, a few months where we ourselves designed an e
 
 Reorganizing the cynefin way
 
-Complex {![Complex](/img/Complex.jpg)} Complicated {![Complicated](/img/Complicated.jpg)}
+Complex ![Complex](/img/Complex.jpg)  Complicated ![Complicated](/img/Complicated.jpg)
 
-Chaotic {![Chaotic](/img/Chaotic.jpg)} Simple {![Simple](/img/Simple.jpg)}
+Chaotic ![Chaotic](/img/Chaotic.jpg) Simple ![Simple](/img/Simple.jpg)
 
 ## Lets look at the obvious ones first ##
 
@@ -59,31 +59,31 @@ Escalating technical debt is usually a result of priorities at different levels.
   Minimal engineering ecosystem covering a product life-cycle is a problem that's easier to identify but difficult to find a way out giving the overall context. What we did was design an ecosystem based on what we saw was required.
 
 
-# We wanted to value #
+## We wanted to value ##
 
-## Individuals and interactions over processes and tools ##
+#### Individuals and interactions over processes and tools ####
 
    Valuing individuals implies, we value them spending time and effort doing whatever they do best .That requires collaborative , interactive and reactive tooling. Developers don't spend time  evaluating long running tests, or how far they disrupted another feature, but focus on what they'd like to deliver in the most productive of ways. Designers spending effort and time designing and not explaining the constraints of module interactions.
 
 
-## Designing interaction pipelines requires identifying the right processes and composing the right tools ##
+#### Designing interaction pipelines requires identifying the right processes and composing the right tools ####
 
       Identify potential interaction overheads in different communication channels.
       Helping individuals at different levels quickly visualize the bigger picture (e.g. developers understanding the fuller business context of what they are developing ).This requires a minimal ideation to realization latency. Will detail on those aspects downstream.
       Predictable outcomes from such processes and account for unbounded latencies and prepare its risk profile right down to the bottom.
 
 
-## Working software over comprehensive documentation ##
+#### Working software over comprehensive documentation ####
 
   This again targets the ideation to realization latency. This requires a very reactive ecosystem.One of the ways we adopted is by building  effective CI pipelines.This helps the ones in the foundry see through the final outcome quickly in a simulated environment.This also lets them scale upto different levels upon these simulations.This would possibly be  how an artist realizes his final outcome with every stroke , only in his mind in his case .
 
 
-## Customer collaboration over contract negotiation ##
+#### Customer collaboration over contract negotiation ####
 
    Its a very fine line to tread upon.Collaboration often requires physical interactions in some specific cases but client engagements built over time can work in different forms. Collaboration requires frequent communication on tagged deliverables. This could require one helping out customers in crises too. That would be part of another blog by itself.
 
 
-## Responding to change over following a plan ##
+#### Responding to change over following a plan ####
 
    Plans aren't built to be broken, neither are all plans broken by design .
    Its just that change is but the living fluid of an economic eventuality.
@@ -93,7 +93,7 @@ Escalating technical debt is usually a result of priorities at different levels.
 
   Building software requires one to constantly integrate features one after the other and again covering all of the values. This is where CI systems play an integral role,
 
-## They define integration pipelines that compose ##
+#### They define integration pipelines that compose ####
 
    Reactive integration valuing individuals
 
