@@ -37,4 +37,4 @@ Platforms can help derive the results ensuring the nature of substantiated quali
 For those familiar with Java , Reflective abilities of the language does enable some degree of meta-programming.Most languages provide some-degree of abilities to perform metaprogramming.
 
 The video of the talk is as below
-<div><iframe width="854" height="480" src="https://www.youtube.com/watch?v=1OTdhWhNJVw" frameborder="0" allowfullscreen></iframe></div>
+<div><iframe width="854" height="480" src="https://www.youtube.com/embed/1OTdhWhNJVw" frameborder="0" allowfullscreen></iframe></div>
